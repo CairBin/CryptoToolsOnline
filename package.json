@@ -21,6 +21,7 @@
     "js-md2": "^0.2.2",
     "js-md4": "^0.3.2",
     "js-sha3": "^0.9.3",
+    "punycode": "^2.3.1",
     "sha3": "^2.1.4",
     "sm-crypto": "^0.3.13",
     "vite-plugin-node-polyfills": "^0.23.0",

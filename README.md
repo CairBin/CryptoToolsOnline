@@ -19,6 +19,7 @@
 * HMAC(SM3/MD5/SHA256等)
 * 核心价值观编码
 * 原码/反码/补码计算
+* Punycode编码解码
 
 
 ### TODO
@@ -33,7 +34,6 @@
 * IP转数字
 * 在线DNS查询/DNS解析
 * User-Agent在线分析
-* Punycode编码解码
 * 随机MAC地址生成器
 * IPv6地址压缩和展开
 * WEBSOCKET在线测试

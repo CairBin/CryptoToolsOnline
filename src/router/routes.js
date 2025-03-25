@@ -57,6 +57,11 @@ const homeChildren = [
         meta: { title: 'complement', isAuth: false },
         path: '/complement',
         component: () => import('../views/encode/complement.vue')
+    },{
+        name: 'punycode',
+        meta: { title: 'punycode', isAuth: false },
+        path: '/punycode',
+        component: () => import('../views/encode/punycode.vue')
     }
 ]
 
